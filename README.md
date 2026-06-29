@@ -1,8 +1,8 @@
-海报设计器
+# 海报设计器
 
 基于 Vue 3 + TypeScript + Leafer UI 的在线海报设计编辑器。
 
-功能
+## 功能
 
 - 可视化画布编辑，支持拖拽、缩放、旋转
 - 多页面管理
@@ -11,16 +11,20 @@
 - 导出为 JPG/PNG/WEBP
 - AI 海报生成插件
 
-开发
+## 开发
 
-    npm install
-    npm run dev
+```bash
+npm install
+npm run dev
+```
 
-构建
+## 构建
 
-    npm run build
+```bash
+npm run build
+```
 
-技术栈
+## 技术栈
 
 - Vue 3 + TypeScript
 - Vite
